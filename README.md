@@ -1,7 +1,7 @@
 - 👋 Eyvind Kjellevold Malde
 - 🌱 Lærer Java, JS og React
 - :world_map: Bergen
-- 👯 [LinkedIn](https://www.linkedin.com/in/eyvind-kjellevold-malde-7a9314252/)
+- 👯 [LinkedIn](https://www.linkedin.com/in/eyvind-kjellevold-malde-7a9314252/){:target="\_blank"}
 - 💬 Discord: Eyv#4130
 <!--
 - 🔭 I’m currently working on ...
