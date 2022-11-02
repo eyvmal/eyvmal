@@ -3,7 +3,7 @@
 - 👀 Gaming, tech, orientering
 - :world_map: Bergen, Norge
 - 📫 Email: eyvind@elsker.is
-- 👯 [LinkedIn](https://www.linkedin.com/in/eyvind-kjellevold-malde-7a9314252/)
+- 👯 [LinkedIn](https://www.linkedin.com/in/eyvmal/)
 - 👾 Discord: Eyv#4130
 <!--
 - 🔭 I’m currently working on ...
