@@ -1,11 +1,8 @@
 - 👋 Eyvind Kjellevold Malde
 - 🌱 Lærer Java, JS og React
 - :world_map: Bergen
-
-![](https://dcbadge.vercel.app/api/shield/157904191094915072)
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+- 👯 [LinkedIn](https://www.linkedin.com/in/eyvind-kjellevold-malde-7a9314252/)
+- 💬 Discord: Eyv#4130
 <!--
 - 🔭 I’m currently working on ...
 
