@@ -2,7 +2,6 @@
 - 🌱 Lærer Java, JS og React
 - 👀 Gaming, tech, orientering
 - :world_map: Bergen, Norge
-- 📫 eyvind@elsker.is
 - 👯 [LinkedIn](https://www.linkedin.com/in/eyvmal/)
 - 👾 Eyv#4130
 <!--
