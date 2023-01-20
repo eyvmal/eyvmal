@@ -1,5 +1,5 @@
 - 👋 Eyvind Kjellevold Malde
-- 🌱 Lærer Java, JS og React
+- 🌱 Lærer Java, C++ og JS
 - 👀 Gaming, tech, orientering
 - :world_map: Bergen, Norge
 - 👯 [LinkedIn](https://www.linkedin.com/in/eyvmal/)
