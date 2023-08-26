@@ -1,9 +1,8 @@
 - 👋 Eyvind Kjellevold Malde
-- 🌱 Java, C++ og JS
+- 🌱 Java, Python, C++ og JS
 - 👀 Gaming, tech, orienteering
 - :world_map: Bergen, Norge
 - 👯 [LinkedIn](https://www.linkedin.com/in/eyvmal/)
-- 👾 Eyv#4130
 <!--
 - 🔭 I’m currently working on ...
 
