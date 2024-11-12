@@ -1,5 +1,5 @@
 - 👋 Eyvind Kjellevold Malde
-- 🌱 .NET, Java, Python og React
+- 🌱 .NET, Java, Python, JavaScript, React & Vue3
 - 👀 Gaming, tech, orienteering
 - :world_map: Bergen, Norge
 - 👯 [LinkedIn](https://www.linkedin.com/in/eyvmal/)
